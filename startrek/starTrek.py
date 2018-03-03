@@ -17,14 +17,16 @@ def main():
     # Units = number of stars
     galaxy=[]
     # Initialise the galaxy list
-for i in range (0,64):
-    x=y=0
-    z=random.randint(1,5)
-    if random.randint(1,10)<8:
- x=random.randint(1,3)
- if random.randint(1,100)>88:
- y=1
- galaxy.append(x*100+y*10+z)
+
+    for i in range (0,64):
+         x=y=0
+         z=random.randint(1,5)
+         if random.randint(1,10)<8:
+         x=random.randint(1,3)
+
+     if random.randint(1,100)>88:
+         y=1
+         galaxy.append(x*100+y*10+z)
  # Keep a record of how many klingons are left to be destroyed
  klingons=klingons+x
  # Choose the starting sector and position for the Enterprise
@@ -487,4 +489,3 @@ if __name__ == '__main__':
  import random
  import time
  main()
-Page 8
