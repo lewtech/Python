@@ -8,6 +8,7 @@
     <orderEntry type="module" module-name="stefanMischookCourse" />
     <orderEntry type="module" module-name="flashcards" />
     <orderEntry type="module" module-name="coderbyte" />
+    <orderEntry type="module" module-name="ProjectEucler" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

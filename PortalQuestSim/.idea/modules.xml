@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PortalQuestSim.iml" filepath="$PROJECT_DIR$/.idea/PortalQuestSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjectEucler/.idea/ProjectEucler.iml" filepath="$PROJECT_DIR$/../ProjectEucler/.idea/ProjectEucler.iml" />
       <module fileurl="file://$PROJECT_DIR$/../coderbyte/.idea/coderbyte.iml" filepath="$PROJECT_DIR$/../coderbyte/.idea/coderbyte.iml" />
       <module fileurl="file://$PROJECT_DIR$/../flashcards/.idea/flashcards.iml" filepath="$PROJECT_DIR$/../flashcards/.idea/flashcards.iml" />
       <module fileurl="file://$PROJECT_DIR$/../startrek/.idea/startrek.iml" filepath="$PROJECT_DIR$/../startrek/.idea/startrek.iml" />
