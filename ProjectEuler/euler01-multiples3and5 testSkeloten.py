@@ -19,7 +19,7 @@ def multiplesOf3And5():
     sumMultiplesOf3and5
 
 def multiplesOf3():
-    return 0
+    return 10
 
 def multiplesOf5():
     return 0
@@ -28,6 +28,6 @@ def multiplesOf3And5():
     return 0
 
 print (multiplesOf3())
-assert multiplesOf3()  == 0
+assert multiplesOf3()  == 0, print (multiplesOf3())
 assert multiplesOf5() == 0
 assert multiplesOf3And5() == 0
