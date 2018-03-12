@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="flashcards" />
     <orderEntry type="module" module-name="coderbyte" />
     <orderEntry type="module" module-name="ProjectEucler" />
+    <orderEntry type="module" module-name="PathfinderBasicSim" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
