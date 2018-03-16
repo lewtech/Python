@@ -1,4 +1,5 @@
 # Computer Science Flash Cards
+# THIS IS NOT MY PROJECT. PROJECT FORKED
 
 This is a little website I've put together to allow me to easily make flash cards and quiz myself for memorization of:
 

@@ -43,5 +43,5 @@ class Monster(Character):
         self.ac_base = defense_ac
         self.ac_shield_bonus = 0
         self.ac_dex_mod = 0
-        self.weapon_dmg_minimum =
-        self.weapon_dmg_maximum
+        self.weapon_dmg_minimum = offense_melee_minimum
+        self.weapon_dmg_maximum = offense_melee_maximum

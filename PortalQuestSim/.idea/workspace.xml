@@ -24,8 +24,20 @@
       <file leaf-file-name="PathfinderBasicSimulator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="41" selection-end-column="83" />
+            <state relative-caret-position="1245">
+              <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../flashcards/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -44,38 +56,38 @@
       <file leaf-file-name="PathFinderBasicSimulator2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathFinderBasicSimulator2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="33" lean-forward="false" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="358">
+              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gui2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../stefanMischookCourse/gui2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="easy-letterChanges.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../coderbyte/easy-letterChanges.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="easy-letterCapitalize.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="easy-letterCapitalize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../coderbyte/easy-letterCapitalize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
               <caret line="52" column="59" lean-forward="false" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tools_CharacterBuilder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="90" column="6" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/lib/python3.4/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,16 +115,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="objectOriented.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../stefanMischookCourse/objectOriented.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,6 +128,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>blurb</find>
+      <find>goblin swin</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -142,15 +145,17 @@
         <option value="$PROJECT_DIR$/../ProjectEucler/euler01-multiples3and5.py" />
         <option value="$PROJECT_DIR$/../ProjectEucler/euler01-multiples3and5 testSkeloten.py" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/test.ipynb" />
-        <option value="$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py" />
-        <option value="$PROJECT_DIR$/../PathfinderBasicSim/PathFinderBasicSimulator2.py" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/PathfinderCharacterCreator.py" />
         <option value="$PROJECT_DIR$/../coderbyte/easy-letterCapitalize.py" />
+        <option value="$PROJECT_DIR$/../PathfinderBasicSim/PathFinderBasicSimulator2.py" />
+        <option value="$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py" />
+        <option value="$PROJECT_DIR$/../flashcards/README.md" />
+        <option value="$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="746" />
     <option name="y" value="-1001" />
     <option name="width" value="1280" />
     <option name="height" value="1001" />
@@ -223,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.easy-letterCapitalize">
+  <component name="RunManager" selected="Python.Tools_CharacterBuilder">
     <configuration name="PathfinderBasicSimulator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,6 +242,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PathfinderBasicSim" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Tools_CharacterBuilder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PathfinderBasicSim" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PathfinderBasicSim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,24 +314,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjectEucler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProjectEucler/euler01-multiples3and5 testSkeloten.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="flash_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../flashcards" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="flashcards" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../flashcards/flash_cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,19 +407,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.flash_cards" />
-      <item index="1" class="java.lang.String" itemvalue="Python.easy-letterChanges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.easy-letterCapitalize" />
-      <item index="3" class="java.lang.String" itemvalue="Python.euler01-multiples3and5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PathfinderBasicSimulator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.easy-letterChanges" />
+      <item index="1" class="java.lang.String" itemvalue="Python.easy-letterCapitalize" />
+      <item index="2" class="java.lang.String" itemvalue="Python.euler01-multiples3and5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PathfinderBasicSimulator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Tools_CharacterBuilder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.easy-letterCapitalize" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Tools_CharacterBuilder" />
         <item index="1" class="java.lang.String" itemvalue="Python.PathfinderBasicSimulator" />
-        <item index="2" class="java.lang.String" itemvalue="Python.euler01-multiples3and5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.easy-letterChanges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.flash_cards" />
+        <item index="2" class="java.lang.String" itemvalue="Python.easy-letterCapitalize" />
+        <item index="3" class="java.lang.String" itemvalue="Python.euler01-multiples3and5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.easy-letterChanges" />
       </list>
     </recent_temporary>
   </component>
@@ -436,18 +441,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="746" y="-1001" width="1280" height="1001" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21959096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32615715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39939487" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39935413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -469,6 +473,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -485,7 +490,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="41" selection-end-column="83" />
-          <folding />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -800,18 +807,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathFinderBasicSimulator2.py">
+    <entry file="file://$PROJECT_DIR$/../coderbyte/easy-letterCapitalize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="33" lean-forward="false" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="41" selection-end-column="83" />
+        <state relative-caret-position="615">
+          <caret line="52" column="59" lean-forward="false" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -824,10 +823,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../coderbyte/easy-letterCapitalize.py">
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathFinderBasicSimulator2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="52" column="59" lean-forward="false" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+        <state relative-caret-position="358">
+          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flashcards/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/lib/python3.4/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="6" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
           <folding />
         </state>
       </provider>

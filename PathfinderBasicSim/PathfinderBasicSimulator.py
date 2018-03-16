@@ -1,4 +1,5 @@
 import random
+from time import sleep
 
 combat = False
 
@@ -79,6 +80,11 @@ def roll(sides):
 
 print (roll(20))
 
+def combat_type_of_miss():
+    if roll(20)>13: return "is parried or blocked"
+    if roll(20)>7: return "glances off"
+    if roll(20)>3: return "is dodged"
+    else : return "blocked by a twist of fate!"
 
 
 #roll initiative
@@ -88,6 +94,7 @@ print (roll(20))
 #4everyone takes a turn in initiative order
 combat = True
 while combat == True:
+    sleep(1)
     if roll(20) > goblin1.defense_ac:
         damage = roll(10)
         goblin1.hp_current = goblin1.hp_current - damage
@@ -100,9 +107,9 @@ while combat == True:
 
 
     else:
-        print ("hero misses")
+        print ("hero's attack " + combat_type_of_miss())
     if roll(20) > (player1.ac_base + player1.ac_dex_mod + player1.ac_shield_bonus):
-        damage = roll(goblin1.offense_melee_dice)
+        damage = roll(goblin1.offense_melee_maximum)
         player1.hp_current = player1.hp_current - damage
         print("goblin swings at hero for " + str(damage) + " points of damage")
         if player1.hp_current < 1:
@@ -112,7 +119,7 @@ while combat == True:
 
 
     else:
-        print ("goblin misses")
+        print ("goblin's attack " + combat_type_of_miss())
 
 #5return to step 4
 
