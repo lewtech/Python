@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PathToCoding/.idea/PathToCoding.iml" filepath="$PROJECT_DIR$/../PathToCoding/.idea/PathToCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PathfinderBasicSim/.idea/PathfinderBasicSim.iml" filepath="$PROJECT_DIR$/../PathfinderBasicSim/.idea/PathfinderBasicSim.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PortalQuestSim.iml" filepath="$PROJECT_DIR$/.idea/PortalQuestSim.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ProjectEuler/.idea/ProjectEuler.iml" filepath="$PROJECT_DIR$/../ProjectEuler/.idea/ProjectEuler.iml" />
