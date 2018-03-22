@@ -18,9 +18,10 @@ print(testCharacter.weapon)
 
 testMonster = cc.create_monster("goblin","goblingrunt")
 print(testMonster.name + " " +testMonster.character_class)
-cc.combatRound(testCharacter, testMonster, "weapon", 10, 15, 1)
-cc.combatRound(testMonster, testCharacter, "weapon", 10, 15, 5)
-
+cc.combatRound(testCharacter, testMonster, 5, "weapon", 10, 15, 1)
+cc.combatRound(testMonster, testCharacter, 5, "weapon", 10, 15, 5)
+cc.combatRound(testCharacter, testMonster, 5,"weapon", 10, 15, 10)
+cc.combatRound(testCharacter, testMonster, 5,"weapon", 10, 15, 10)
 #combat
 #combat array
 

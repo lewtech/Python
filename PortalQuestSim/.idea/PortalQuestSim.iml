@@ -6,11 +6,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="startrek" />
     <orderEntry type="module" module-name="stefanMischookCourse" />
-    <orderEntry type="module" module-name="flashcards" />
     <orderEntry type="module" module-name="coderbyte" />
     <orderEntry type="module" module-name="ProjectEucler" />
     <orderEntry type="module" module-name="PathfinderBasicSim" />
     <orderEntry type="module" module-name="PathToCoding" />
+    <orderEntry type="module" module-name="CodeFights" />
+    <orderEntry type="module" module-name="interviewCake" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
