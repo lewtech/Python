@@ -1,6 +1,6 @@
 import random
 
-
+race_picked = ""
 class PlayerCharacter(object):
     def __init__(self, name, character_class):
         self.name = name
@@ -11,6 +11,10 @@ def main():
     generate_abilities()
     gather_info()
     save_to_data()
+
+
+def pick_race():
+    race_picked = input("what race will you choose? dwarf, hafling, elf, human, gnome, halforc, halfelf")
 
 
 def gather_info():
@@ -55,7 +59,7 @@ def generate_abilities():
         classes = []
         class_options = []
 
-        print(str(i+1) + ":", end = " ")
+        print(str(i + 1) + ":", end=" ")
         for j in range(0, 6):
             score = roll4d6()
             if score >= 10:
@@ -82,6 +86,10 @@ def generate_abilities():
                     class_options = "clumsy"
                 classes.append(str(class_options)) if class_options != [] else False
                 class_options = []
+            if j == 2:
+                if race_picked == "dwarf":
+                    score = score + 20
+
             if j == 3:
                 if score >= min_score:
                     class_options = "wizard"
@@ -115,7 +123,7 @@ def generate_abilities():
 def save_to_data():
     pass
 
-
+pick_race()
 main()
 
 

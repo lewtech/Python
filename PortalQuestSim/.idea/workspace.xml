@@ -14,18 +14,18 @@
       <file leaf-file-name="Tools_CharacterBuilder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="77" column="50" lean-forward="false" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+            <state relative-caret-position="960">
+              <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="67" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TDD_Char_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TDD_Char_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="310">
+              <caret line="136" column="5" lean-forward="false" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -33,11 +33,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/lib/python3.4/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4530">
+              <caret line="302" column="0" lean-forward="false" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TDD_Char_Controller.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Controller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="66" column="53" lean-forward="false" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
+            <state relative-caret-position="286">
+              <caret line="97" column="4" lean-forward="false" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathfinderCharacterCreator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathfinderCharacterCreator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -53,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_apple_stocks.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01_apple_stocks.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../interviewCake/01_apple_stocks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="645">
+              <caret line="43" column="72" lean-forward="false" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -76,18 +96,8 @@
       <file leaf-file-name="TDD_Char_Builder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Builder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pip-selfcheck.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/pip-selfcheck.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -98,16 +108,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ideas.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/ideas.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -129,6 +129,16 @@
       <find>blurb</find>
       <find>goblin swin</find>
       <find>hero</find>
+      <find>hp_</find>
+      <find>append</find>
+      <find>array</find>
+      <find>turn_array</find>
+      <find>add</find>
+      <find>lineup</find>
+      <find>true</find>
+      <find>remove</find>
+      <find>position</find>
+      <find>combatround</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -151,7 +161,6 @@
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/PathfinderBasicSimulator.py" />
         <option value="$PROJECT_DIR$/../flashcards/README.md" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/ideas.html" />
-        <option value="$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py" />
         <option value="$PROJECT_DIR$/../PathToCoding/PathToCoding.py" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/tdd_character_builder.py" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDDTool.py" />
@@ -159,15 +168,16 @@
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_View.py" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Tool.py" />
         <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Builder.py" />
-        <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_test.py" />
-        <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Controller.py" />
         <option value="$PROJECT_DIR$/../CodeFights/00_adjacentElementsProduct.py" />
         <option value="$PROJECT_DIR$/../CodeFights/000_adjacent_elements_product.py" />
         <option value="$PROJECT_DIR$/../interviewCake/01_apple_stocks.py" />
+        <option value="$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py" />
+        <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Controller.py" />
+        <option value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="746" />
     <option name="y" value="-1001" />
     <option name="width" value="1280" />
@@ -214,10 +224,6 @@
             </path>
             <path>
               <item name="PortalQuestSim" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PathToCoding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PortalQuestSim" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectEuler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -230,6 +236,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="(&quot;combat done&quot;)&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -254,25 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_apple_stocks">
-    <configuration name="00_adjacentElementsProduct" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CodeFights" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeFights" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CodeFights/000_adjacent_elements_product.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.TDDTool">
     <configuration name="01_apple_stocks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,7 +298,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="TDD_Controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TDD_Char_Builder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -321,13 +310,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PathfinderBasicSim" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Controller.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Builder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="TDD_View" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TDD_Char_View" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -340,6 +329,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PathfinderBasicSim" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_View.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Tools_CharacterBuilder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PathfinderBasicSim" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PathfinderBasicSim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -434,18 +441,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.TDDTool" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TDD_View" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TDD_Controller" />
-      <item index="3" class="java.lang.String" itemvalue="Python.00_adjacentElementsProduct" />
-      <item index="4" class="java.lang.String" itemvalue="Python.01_apple_stocks" />
+      <item index="1" class="java.lang.String" itemvalue="Python.01_apple_stocks" />
+      <item index="2" class="java.lang.String" itemvalue="Python.TDD_Char_Builder" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Tools_CharacterBuilder" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TDD_Char_View" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.01_apple_stocks" />
-        <item index="1" class="java.lang.String" itemvalue="Python.00_adjacentElementsProduct" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TDDTool" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TDD_Controller" />
-        <item index="4" class="java.lang.String" itemvalue="Python.TDD_View" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TDDTool" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TDD_Char_View" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Tools_CharacterBuilder" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TDD_Char_Builder" />
+        <item index="4" class="java.lang.String" itemvalue="Python.01_apple_stocks" />
       </list>
     </recent_temporary>
   </component>
@@ -472,13 +479,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35414425" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2454252" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6157158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -493,6 +500,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_test.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -500,18 +514,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ProjectEuler/euler01-multiples3and5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../stefanMischookCourse/objectOriented.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -751,13 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathfinderCharacterCreator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathFinderBasicSimulator2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -790,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,18 +808,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../CodeFights/000_adjacent_elements_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="64" lean-forward="false" selection-start-line="62" selection-start-column="64" selection-end-line="62" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../interviewCake/01_apple_stocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="72" lean-forward="false" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/Tools_CharacterBuilder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="50" lean-forward="false" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+        <state relative-caret-position="960">
+          <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="67" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/lib/python3.4/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4530">
+          <caret line="302" column="0" lean-forward="false" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/PathfinderCharacterCreator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Builder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="510">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -834,37 +864,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="97" column="4" lean-forward="false" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="310">
+          <caret line="136" column="5" lean-forward="false" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CodeFights/000_adjacent_elements_product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="64" lean-forward="false" selection-start-line="62" selection-start-column="64" selection-end-line="62" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PathfinderBasicSim/TDD_Char_Controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="53" lean-forward="false" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../interviewCake/01_apple_stocks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
