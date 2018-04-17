@@ -12,6 +12,10 @@
     <orderEntry type="module" module-name="PathToCoding" />
     <orderEntry type="module" module-name="CodeFights" />
     <orderEntry type="module" module-name="interviewCake" />
+    <orderEntry type="module" module-name="CleverProgrammer" />
+    <orderEntry type="module" module-name="CleverProgrammer" />
+    <orderEntry type="module" module-name="RPG_sim" />
+    <orderEntry type="module" module-name="Dataquest" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

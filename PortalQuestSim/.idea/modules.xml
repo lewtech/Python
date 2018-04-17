@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CleverProgrammer/.idea/CleverProgrammer.iml" filepath="$PROJECT_DIR$/../CleverProgrammer/.idea/CleverProgrammer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CodeFights/.idea/CodeFights.iml" filepath="$PROJECT_DIR$/../CodeFights/.idea/CodeFights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dataquest/.idea/Dataquest.iml" filepath="$PROJECT_DIR$/../Dataquest/.idea/Dataquest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PathToCoding/.idea/PathToCoding.iml" filepath="$PROJECT_DIR$/../PathToCoding/.idea/PathToCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PathfinderBasicSim/.idea/PathfinderBasicSim.iml" filepath="$PROJECT_DIR$/../PathfinderBasicSim/.idea/PathfinderBasicSim.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PortalQuestSim.iml" filepath="$PROJECT_DIR$/.idea/PortalQuestSim.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ProjectEuler/.idea/ProjectEuler.iml" filepath="$PROJECT_DIR$/../ProjectEuler/.idea/ProjectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RPG_sim/.idea/RPG_sim.iml" filepath="$PROJECT_DIR$/../RPG_sim/.idea/RPG_sim.iml" />
       <module fileurl="file://$PROJECT_DIR$/../coderbyte/.idea/coderbyte.iml" filepath="$PROJECT_DIR$/../coderbyte/.idea/coderbyte.iml" />
       <module fileurl="file://$PROJECT_DIR$/../interviewCake/.idea/interviewCake.iml" filepath="$PROJECT_DIR$/../interviewCake/.idea/interviewCake.iml" />
       <module fileurl="file://$PROJECT_DIR$/../startrek/.idea/startrek.iml" filepath="$PROJECT_DIR$/../startrek/.idea/startrek.iml" />
