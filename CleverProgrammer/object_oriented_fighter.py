@@ -21,10 +21,10 @@ class Fighter:
         self.hero = True
         # archetypes of hero: shield, sword, arrow, shadow, arcane, divine
 
-    def attack(self, other_guy):
-        other_guy.health = other_guy.health - self.damage
-        print("{} attacks {}!".format(self.name, other_guy.name))
-        print("{} loses {} health points!".format(other_guy.name, self.damage))
+    def attack(self, opponent):
+        other_guy.health = opponent.health - self.damage
+        print("{} attacks {}!".format(self.name, opponent.name))
+        print("{} loses {} health points!".format(opponent.name, self.damage))
 
     def __str__(self):
         return "{}: {}".format(self.name, self.health)
